@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "F189BA2F047FD6839BBAF244A3B28826",
+  "keywordClasses": [
+    {
+      "name": "sample.Common",
+      "keywordMethods": [
+        {
+          "name": "startAppliucation",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
